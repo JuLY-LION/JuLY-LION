@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuLY-LION. I first started coding in 2013 with Scratch.
 - 👀 I’m interested in making games, playing games, and sci-fi stories.
 - 🌱 I’m currently learning Lua and GML.
-- 🤝 I’m looking to collaborate with myself.
+- 🛃 I’m looking to collaborate with myself.
 - 📫 I'm reachable on Discord at @JuLY.LION#7657.
 
 <!---
