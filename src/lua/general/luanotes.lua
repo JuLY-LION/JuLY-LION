@@ -42,8 +42,8 @@ else
 end
 felon = false
 if (age >= 18 ) and (felon = false) then
-	print("You may drive by yourself")
+	print("You may vote")
 else
-	print("You may drive by yourself")
+	print("You may not vote")
 end
 
