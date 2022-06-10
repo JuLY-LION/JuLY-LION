@@ -33,10 +33,17 @@ print("Relational: >, <, >=, <=, ==, ~=")
 -- (x != y) won't work!
 print("Logical: and, or, not")
 age = 17
-if age < 15 then
+if age < 15 then --[[ Parentheses can be left out ]]--
 	print("You may not drive")
-elseif (age == 15 then) --[[ No space on elseif! ]]--
+elseif (age == 15) then --[[ No space on elseif! ]]--
 	print("You may drive with a licensed adult")
 else
 	print("You may drive by yourself")
 end
+felon = false
+if (age >= 18 ) and (felon = false) then
+	print("You may drive by yourself")
+else
+	print("You may drive by yourself")
+end
+
