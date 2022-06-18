@@ -46,12 +46,13 @@ if (age >= 18 ) and (felon == false) then
 else
 	print("You may not vote")
 end
+print("\n")
 
 print("If you're determined to make your code look bad,\nyou can squeeze multiple lines into one.")
-if (age - 10 == 20) or (name == "John") then print("true") else print("false") end
+if (age - 10 == 20) or (name == "John") then print("true" .. "\n") else print("false" .. "\n") end
 
 print("Ternary operators in Lua:") --[[ I didn't know these were a thing until now! ]]--
 canVote = age > 18 and true or false
-print("canVote result: ", canVote)
+print("canVote result: ", canVote, "\n")
 
 
