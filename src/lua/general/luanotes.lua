@@ -47,8 +47,11 @@ else
 	print("You may not vote")
 end
 
-print("If you're determined to make your code look bad,\nyou can put all your code in one line.")
+print("If you're determined to make your code look bad,\nyou can squeeze multiple lines into one.")
 if (age - 10 == 20) or (name == "John") then print("true") else print("false") end
 
+print("Ternary operators in Lua:") --[[ I didn't know these were a thing until now! ]]--
+canVote = age > 18 and true or false
+print("canVote result: ", canVote)
 
 
