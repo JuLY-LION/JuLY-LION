@@ -2,7 +2,7 @@
 - 👀 I’m interested in making games, playing games, and sci-fi stories.
 - 🌱 I’m currently learning Lua and GML.
 - 🛃 I’m looking to collaborate with myself.
-- 📫 I'm reachable on Discord at @JuLY.LION#7657.
+- 📫 I'm reachable on my Discord server at discord.gg/jRguKc8.
 
 <!---
 JuLY-LION/JuLY-LION is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
