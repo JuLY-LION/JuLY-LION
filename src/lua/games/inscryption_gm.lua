@@ -1,8 +1,13 @@
 function about()
-	print("So would I!")
+	print("Unavailable for now!")
 end
 function setup()
-	print("Enter your starting difficulty: (0-3)")
+	print("Enter your starting difficulty: (0-5)")
+	dif = io.read()
+	print("Enter difficulty increment: (0-1)")
+	difinc = io.read()
+	print("Enter difficulty variance: (<1)")
+	difvar = io.read()
 end
 print("-=[INSCRYPTION DRIVER]=-")
 
@@ -18,5 +23,5 @@ setup()
 playerCards = 0
 
 
-
+print("PROGRAM CONCLUDED")
 io.read()
